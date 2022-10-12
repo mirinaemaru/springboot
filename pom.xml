@@ -108,7 +108,7 @@
                     <server>dev-tomcat-server</server>
                     <path>/${project.build.finalName}</path>
                     <username>admin</username>
-                    <password>qwer1234</password>
+                    <password>1111</password>
                 </configuration>
             </plugin>
         </plugins>
