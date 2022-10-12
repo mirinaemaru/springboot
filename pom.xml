@@ -123,6 +123,12 @@
 
     <profiles>
         <profile>
+            <id>local</id>
+            <properties>
+                <deployUrl>http://127.0.0.1:9080/manager/text</deployUrl>
+            </properties>
+        </profile>
+        <profile>
             <id>native</id>
             <properties>
                 <repackage.classifier>exec</repackage.classifier>
